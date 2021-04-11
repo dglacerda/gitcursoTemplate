@@ -1,0 +1,2 @@
+# gitcursoTemplate
+Projeto Exemplo
